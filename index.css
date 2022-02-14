@@ -3,7 +3,7 @@ body {
 }
 
 #showcase {
-    background-image: url(/images/istockphoto-1181563943-612x612.jpg);
+    background-image: url("/images/istockphoto-1181563943-612x612.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
